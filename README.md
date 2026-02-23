@@ -5,12 +5,21 @@
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 
+## 🚀 Live Telegram Bot
+
+**Try the live Telegram copy trading bot:** [@ddev05_bot](https://t.me/ddev05_bot)
+
+This is a live Telegram copy trading bot. You can check the TG bot workspace to see it in action.
+
+![Telegram Bot Interface](https://raw.githubusercontent.com/0xddev/polymarket-copy-trading-bot/main/Untitled.png)
+
+**Interested in the bot? Contact:** [@ddev05](https://t.me/ddev05)
+
 ## Overview
 
 The Polymarket Copy Trading Bot automatically replicates trades from successful Polymarket traders to your wallet. It monitors trader activity 24/7, calculates proportional position sizes based on your capital, and executes matching orders in real-time.
 
 ### How It Works
-<img width="995" height="691" alt="screenshot" src="https://github.com/user-attachments/assets/79715c7a-de2c-4033-81e6-b2288963ec9b" />
 
 1. **Select Traders** - Choose top performers from [Polymarket leaderboard](https://polymarket.com/leaderboard) or [Predictfolio](https://predictfolio.com)
 2. **Monitor Activity** - Bot continuously watches for new positions opened by selected traders using Polymarket Data API
@@ -66,7 +75,6 @@ The bot currently uses the **Polymarket Data API** to monitor trader activity an
 **🚀 Version 2 Available:** An advanced version with **RTDS (Real-Time Data Stream)** monitoring is now available as a private repository. Version 2 features the fastest trade detection method with near-instantaneous trade replication, lower latency, and reduced API load. Copy trading works excellently in the advanced version.
 
 I've also developed a monitoring bot for Polymarket built with **Rust** - it's a useful tool for tracking and analyzing market activity.
-<img width="680" height="313" alt="image (19)" src="https://github.com/user-attachments/assets/d868f9f2-a1dd-4bfe-a76e-d8cbdfbd8497" />
 
 ## Configuration
 
@@ -179,3 +187,4 @@ ISC License - See [LICENSE](LICENSE) file for details.
 ---
 
 **Disclaimer:** This software is for educational purposes only. Trading involves risk of loss. The developers are not responsible for any financial losses incurred while using this bot.
+
