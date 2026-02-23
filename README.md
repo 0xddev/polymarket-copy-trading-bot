@@ -13,7 +13,7 @@ This is a live Telegram copy trading bot. You can check the TG bot workspace to 
 
 ![Telegram Bot Interface](https://raw.githubusercontent.com/0xddev/polymarket-copy-trading-bot/main/Untitled.png)
 
-**Interested in the bot? Contact:** [@ddev05](https://t.me/ddev05)
+**Interested in the bot? Contact:** [S.E.I](https://t.me/sei_dev)
 
 ## Overview
 
@@ -187,4 +187,5 @@ ISC License - See [LICENSE](LICENSE) file for details.
 ---
 
 **Disclaimer:** This software is for educational purposes only. Trading involves risk of loss. The developers are not responsible for any financial losses incurred while using this bot.
+
 
